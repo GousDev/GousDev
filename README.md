@@ -17,7 +17,7 @@ I focus on **clean architecture, secure authentication, scalable APIs, and user-
 
 ## 🧠 Currently
 
-- 🔭 Working on **Dg-Tal Mind** (IT services & web solutions platform)
+- 🔭 Working at **Dg-Tal Mind** 
 - 🌱 Learning **Next.js, PostgreSQL, AI integrations**
 - 🤝 Open to **Full-Time / Internship / Freelance opportunities**
 
