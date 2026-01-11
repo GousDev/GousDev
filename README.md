@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gous — Full Stack Developer
 
-🚀 Full Stack Developer with hands-on experience building **production-ready web applications** using modern technologies.  
+🚀 Full Stack Developer with hands-on experience building **production-ready web applications** using modern technologies like MERN, PERN Stack, Next.js.  
 I focus on **clean architecture, secure authentication, scalable APIs, and user-friendly interfaces**.
 
 ---
